@@ -2,6 +2,7 @@
 
 ## YAML Pros :heart:\:
 - Configuration files all written in YAML
+	- File extension can be either .yaml or .yml
 - Widely used format
 - For different **DevOps** tools & applications
 
