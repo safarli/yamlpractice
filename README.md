@@ -30,9 +30,9 @@ Just like XML & JSON
 
 | User ID | User Name  | Email                 |
 | ------- | ---------- | --------------------- |
-| Alex    | alexoo     | alexkiwi823@gmail.com |
-| George  | devgeorgi9 | georgdev95@mail.ru    |
-| Rashad  | rash77ad   | rashttx56@hotmail.com |
+| Alex    | alexoo     | alexkjkqiwi823@gmail.com |
+| George  | devgeorgi9 | georcwhjgdev95@mail.ru    |
+| Rashad  | rash77ad   | rashqgttx56@hotmail.com |
 
 | Syntax    | Description | Alternative |
 | :-------- | :---------: | ----------: |

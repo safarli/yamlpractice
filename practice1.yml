@@ -68,3 +68,8 @@ a_sequence:
     - Inside another sequence
   - - - Nested sequence indicators
       - Can be collapsed
+
+another_sequence: [
+  books: ['math', 'history', 'physics'],
+  movies: ['Interstellar', 'Contact', 'Black']
+]
