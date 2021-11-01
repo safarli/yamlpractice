@@ -1,6 +1,7 @@
 # In this REPO you can find different Yaml script files for your purposes :blush:
 
 ## What is YAML?
+:avocado: :kiwi_fruit: :pineapple: :alien:
 
 Yaml is a data serialization language  
 Just like XML & JSON
@@ -26,6 +27,11 @@ Just like XML & JSON
 </tr>
 </tbody>
 </table>
+
+| Syntax | Description | Alternative |
+| :----- | :---------: |-:	  |
+| Header      | Title       |   salam     |
+| Paragraph   | Text        |     sagol   |
 
 [WAVEVO TECH][mywebsite]
 

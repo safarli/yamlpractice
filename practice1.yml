@@ -1,0 +1,70 @@
+# this is a comment line
+
+key: value # this is also a comment
+app: myapp
+boolean: true
+null_value: null
+key with spaces: value
+port: 3333
+version: 3.91
+however: "A string, enclosed in quotes"
+"Keys can be quoted too": "Useful if you want to put a ':' in your key"
+single_quotes: "have 'one' escape pattern"
+double_quotes: "have many: \" \0 \t \u263A \x0d\x0a == \r\n, and more."
+Superscript two: \u00B2
+
+multiline_literal_block: |
+  This entire block of text will be the value of the 'literal_block' key,
+    with line breaks being preserved.
+  sagol necesen cox sagol yaxsiyam
+           evdekiler necedi?
+        Lorem ipsum dolor sit amet
+    lemon apple strawberry
+
+multiline_folded_style: >
+  This entire block of text will be the value of 'folded_style', but this
+     time, all newlines will be replaced with a single space.
+   gelmisikse dostlarin qonaqligina
+   bunu da     icek yaxsilarin sagligina
+         sebeb nedir cosub dasir yaxinlasir uzaqlasir
+             varliq ayri sevgiler oxsaaar
+   esqimi qaytar mene qaytar
+       esqimi eyy yar mene qaytaar
+
+example:
+  image: nginx
+  listen: 80
+  ssl: true
+  version: 1.14
+
+####################
+# COLLECTION TYPES #
+####################
+
+a_nested_map:
+  key: value
+  another_key: Another value
+  another_nested_map:
+    hello: hello
+
+# Maps don't have to have string keys
+0.25: a float key
+
+? |
+  This is a key
+  that has multiple lines
+: and this is the value
+
+# Sequences (equivalent to lists or arrays) look like this
+# (note that the '-' counts as identation):
+a_sequence:
+  - Item 1
+  - Item 2
+  - 0.5
+  - Item 4
+  - key: value
+    another_key: another_value
+  - - This is a Sequence
+    - Inside another sequence
+  - - - Nested sequence indicators
+      - Can be collapsed
