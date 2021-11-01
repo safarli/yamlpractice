@@ -73,3 +73,10 @@ another_sequence: [
   books: ['math', 'history', 'physics'],
   movies: ['Interstellar', 'Contact', 'Black']
 ]
+
+my_sequence:
+  - salam: 123
+  - sagol: good-bye
+    okay: yaxsi
+    444: 0811
+    deniz: dalga
