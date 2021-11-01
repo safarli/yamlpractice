@@ -28,10 +28,16 @@ Just like XML & JSON
 </tbody>
 </table>
 
-| Syntax | Description | Alternative |
-| :----- | :---------: |-:	  |
-| Header      | Title       |   salam     |
-| Paragraph   | Text        |     sagol   |
+| User ID | User Name  | Email                 |
+| ------- | ---------- | --------------------- |
+| Alex    | alexoo     | alexkiwi823@gmail.com |
+| George  | devgeorgi9 | georgdev95@mail.ru    |
+| Rashad  | rash77ad   | rashttx56@hotmail.com |
+
+| Syntax    | Description | Alternative |
+| :-------- | :---------: | ----------: |
+| Header    |    Title    |       salam |
+| Paragraph |    Text     |       sagol |
 
 [WAVEVO TECH][mywebsite]
 
